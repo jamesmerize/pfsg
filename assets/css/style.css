@@ -533,7 +533,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 .explore-rating-price a {margin:0;}
 .explore-rating {
     display: inline-block;
-    width: 32px;
+    width: 100px;
     height: 20px;
     line-height: 20px;
     color: #fff;
@@ -542,7 +542,8 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
     font-weight: 500;
     margin-right: 10px;
 }
-.explore-price {color: #f63138;}
+.explore-price {color: #0af05f;
+    font-weight: 900;}
 .explore-price-box {
     display: inline-block;
     padding: 0 10px;
